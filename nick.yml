@@ -2,9 +2,6 @@
 - hosts: localhost
   connection: local
 
-  vars_files:
-    - vars/nick-secrets.yml
-
   roles:
     - nick.superlumic-osx-defaults
     - nick.superlumic-homebrew
