@@ -3,11 +3,11 @@
   connection: local
 
   roles:
-    - nick.superlumic-osx-defaults
-    - nick.superlumic-homebrew
-    - nick.superlumic-cli
-    - nick.superlumic-computername
-    - nick.superlumic-vim
+    - roderik.superlumic-osx-defaults
+    - roderik.superlumic-homebrew
+    - roderik.superlumic-cli
+    - roderik.superlumic-computername
+    - roderik.superlumic-vim
     
   tasks:
     - name: add a shortcut for archive in mail
