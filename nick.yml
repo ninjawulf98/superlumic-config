@@ -76,7 +76,7 @@
         - { id: "1039633667", name: "Irvue" }
 
   vars:
-    - computername: "Th3_D4rk_0ver10rd"
+    - computername: "Th3_D4rk_0v3r10rd"
     - preferred_shell: zsh
     - git_user_name: Nick Vanden Eynde
     - git_user_email: ninjawulf98@gmail.com
